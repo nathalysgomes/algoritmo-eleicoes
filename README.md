@@ -30,4 +30,4 @@ Fim
 
 --------------------------------------------------------
 
-![fluxograma] (https://github.com/nathalysgomes/algoritmos-e-programacao-cnh/blob/main/exercicio_cnh.png)
+![fluxograma] (https://github.com/nathalysgomes/algoritmo-eleicoes/blob/main/exercicioeleicoes.png)
