@@ -30,4 +30,4 @@ Fim
 
 --------------------------------------------------------
 
-![fluxograma] (https://github.com/nathalysgomes/algoritmo-eleicoes/blob/main/exercicioeleicoes.png)
+![fluxograma](https://github.com/nathalysgomes/algoritmo-eleicoes/blob/main/exercicioeleicoes.png)
